@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="logo" width="150"/>
+</p>
+
 <h1 align="center">Hi there, I'm Lukasz</h1>
 
 <p align="center">
@@ -22,6 +26,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <a href="https://github.com/jj-vcs/jj"><img src="https://raw.githubusercontent.com/lukabor/lukabor/main/assets/jj-logo.png" height="28" alt="Jujutsu (jj)"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
@@ -53,6 +58,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lukabor&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
