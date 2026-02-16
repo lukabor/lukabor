@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Luka</h1>
+<h1 align="center">Hi there, I'm Lukasz</h1>
 
 <p align="center">
   <em>Computational biologist | R/Python | Building tools for drug discovery. Analyzing reporter assays & NGS data on transcription in bulk, scRNA-seq & spatial contexts.</em>
